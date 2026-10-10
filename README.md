@@ -1,11 +1,48 @@
-# JesusDMedinaC
+# Jesús Daniel Medina Cruz
+**Staff Mobile Platform Architect & Kotlin Multiplatform Specialist**  
+`Remote-first (PST) · California On-site Availability · Serving North America`
 
-Kotlin Mobile Engineer | Android Mobile Engineer | iOS Mobile Engineer | Kotlin Expert | Compose Expert | Kotlin Multiplatform Expert | Mobile Consultant | Mobile Teacher
+[jesusdmedinac.com](https://jesusdmedinac.com) · [LinkedIn](https://linkedin.com/in/jesusdmedinac) · [Email](mailto:jesus.daniel.medina.cruz@gmail.com)
 
-I am a Software Engineer specialized in mobile app development. I specialize in Android with Kotlin, the official programming language for creating Android apps. I have worked on both private projects and public applications. I believe that all problems can be solved through a mobile device.
+---
 
-You too can create solutions to problems around you. Whether you want to work on a high-impact team or help your community, developing mobile apps will allow you to build a better future around you.
+### Engineering Focus & Architecture
 
-I can help you start your career or switch careers. I teach you how to develop mobile apps and professional websites. Become a Software Engineer. Learning to code can become the tool you needed to build a better future, get better job opportunities, improve your quality of life, and/or fulfill your purpose in life.
+Senior technical leader with 11+ years architecting mission-critical native mobile systems and cross-platform infrastructure. Focused on **Kotlin Multiplatform (KMP)** adoption, Clean Architecture, deterministic state pipelines, and developer velocity.
 
-[Linkedin](https://www.linkedin.com/in/jesusdmedinac/) • [Facebook](https://www.facebook.com/jesusdmedinac) • [Instagram](https://www.instagram.com/jesusdmedinac/) • [X](https://twitter.com/JesusDMedinaC) • [Github](https://github.com/jesusdmedinac) • [Medium](https://blog.jesusdmedinac.com/) • [Discord](https://discord.gg/YnxksHvybq) • [Twitch](https://www.twitch.tv/jesusdmedinac)
+- **Mobile Architecture:** Kotlin & Jetpack Compose, Swift & SwiftUI, KMP 2.x, Ktor, Coroutines/Flow.
+- **Developer Experience & Tooling:** AST parsing, custom CLI automation, automated CI/CD pipelines, TDD.
+- **Delivery Standard:** 99.9% crash-free stability, strict domain isolation, zero-compromise native UX.
+
+---
+
+### Active Tooling & Open-Source Artifacts
+
+* **[`json-to-compose`](https://github.com/jesusdmedinac/json-to-compose)**  
+  High-performance AST parser and dynamic UI compiler mapping structured JSON trees into Jetpack Compose & Compose Multiplatform runtimes.
+* **[`kmp-cli`](https://github.com/jesusdmedinac/kmp-cli)**  
+  Command-line developer tooling designed to automate KMP module scaffolding, dependency wiring, and cross-platform CI/CD configuration.
+* **[`kotlin-0-dev`](https://github.com/jesusdmedinac/kotlin-0-dev) & [`from-0-dev`](https://github.com/jesusdmedinac/from-0-dev)**  
+  Curated engineering curricula and mentoring initiatives focused on modern Kotlin semantics, TDD practices, and multiplatform design principles.
+* **[`sf-active-serendipity`](https://github.com/jesusdmedinac/sf-active-serendipity)**  
+  Production codebase for [jesusdmedinac.com](https://jesusdmedinac.com), built with Astro and strict anti-AI craft guidelines.
+
+---
+
+### Systems in Production & Private Case Studies
+
+* **Zora Platform (`zora-system`)** — *Proprietary Startup Platform*  
+  End-to-end multiplatform automotive ecosystem. Shared domain and networking core in Kotlin Multiplatform with native presentation layers on iOS, Android, and Desktop.  
+  *Proof of Work:* Production screenshots and architecture blueprints accessible via the upcoming **`zora-community`** showcase (Basic & Premium Kits).
+
+---
+
+### Advisory & Consulting Engagements
+
+Operating as an independent consultant under PST timezone:
+
+1. **Mobile Architecture & Performance Audit (5 Days):** Deep inspection of memory footprints, dependency graphs, thread bottlenecks, and test suite health.
+2. **KMP Core Logic Pilot Sprint (2 Weeks):** Pragmatic proof-of-concept migrating shared network and domain modules without touching native UI layers.
+3. **Fractional Mobile Platform Advisory:** Guidance on KMP migration strategy, team upskilling, and multiplatform CI/CD setup.
+
+👉 **Book an initial conversation or review full technical case studies at [jesusdmedinac.com](https://jesusdmedinac.com).**
